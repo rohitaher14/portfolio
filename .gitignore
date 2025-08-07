@@ -1,4 +1,5 @@
 .htaccess
+node_modules
 css.php
 rpc/
 sites/site*/admin/
